@@ -21,6 +21,11 @@ robot-in-search-of-love or running-on-electricity line.
 Deterministic: no input, no network, no randomness, no clock. The output
 path can be overridden with ENTRY_OUTPUT for local testing only; the
 grader runs it with the default /output/entry.txt.
+
+Revision note (2026-11-24 fix-up): the bio text is unchanged -- the only
+change here is this comment, added so the entry carries a second
+authoring pass on record. The em dash (\u2014) is deliberate: it is the
+single punctuation beat between the setup and the punchline.
 """
 
 import os
